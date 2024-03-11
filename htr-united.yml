@@ -10,94 +10,72 @@ characters:
   members:
   - e
   - u
+  - s
   - n
   - a
   - r
   - i
-  - t
   - o
+  - t
   - l
-  - s
-  - ſ
-  - c
   - m
   - d
-  - p
+  - c
   - ','
+  - p
   - .
   - y
-  - q
+  - "'"
   - f
   - g
-  - h
+  - q
   - b
-  - E
-  - ’
-  - ':'
+  - x
+  - h
+  - z
   - C
   - D
-  - '&'
-  - v
-  - "'"
-  - z
-  - I
-  - x
+  - ':'
+  - A
+  - E
+  - M
+  - P
+  - L
+  - ⁊
   - S
   - ́
-  - P
-  - A
-  - L
-  - M
-  - ̃
-  - ̀
-  - Q
-  - ¬
-  - T
-  - V
-  - '1'
-  - N
-  - '2'
-  - R
-  - O
-  - F
-  - '3'
-  - H
-  - (
-  - ⁊
-  - '4'
-  - '5'
-  - )
-  - '?'
-  - œ
-  - B
+  - I
   - U
-  - '6'
-  - X
+  - Q
+  - N
+  - O
+  - R
+  - T
+  - F
+  - B
+  - (
+  - )
+  - ¬
   - G
+  - '?'
+  - ̃
+  - H
+  - V
+  - ſ
   - ◊
-  - '8'
-  - '9'
-  - '0'
-  - '7'
   - ̈
   - Y
-  - '-'
-  - ̂
-  - ꝰ
-  -  
-  - ̧
-  - ꝗ
-  - '!'
-  - ꝓ
-  - ͥ
+  - ’
+  - X
   - ;
-  - Z
-  - '*'
-  - j
+  - ͥ
+  -  
   - ͬ
-  - ꝑ
-  - æ
-  - J
+  - '1'
+  - '5'
+  - '3'
+  - '0'
+  - '&'
   mode: NFD
 citation-file-link: https://github.com/SETAFDH/HTR-Varia-Malingre/blob/main/CITATION.cff
 description: >-
@@ -132,11 +110,11 @@ transcription-guidelines: >-
   (https://hal.science/hal-04281804). 
 url: https://github.com/SETAFDH/HTR-Varia-Malingre
 volume:
-- count: 192224
+- count: 45100
   metric: characters
-- count: 260
+- count: 58
   metric: files
-- count: 7666
+- count: 1779
   metric: lines
-- count: 1282
+- count: 220
   metric: regions
